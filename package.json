@@ -1,0 +1,16 @@
+{
+  "name": "socket-server",
+  "version": "1.0.0",
+  "description": "A simple socket server with secret-based authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Björn Djurnamn <bjorn@djurnamn.co>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {}
+}
